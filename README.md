@@ -6,7 +6,7 @@ https://www.figma.com/design/HoKwTMfMrA2XXAfajDyKpT/Untitled-(Copy)?node-id=0-1&
 
 CV WEBSITE:
 
-http://127.0.0.1:5500/index.html
+https://alberturraca.github.io/CV_AlbertUrraca/
 
 PROJECT ANALYSIS, INFORMATION ARCHITECTURE: 
 
